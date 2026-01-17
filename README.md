@@ -91,12 +91,12 @@ Navigate through modules:
 ## Repository Structure
 
 ```
-/staff-management-solution
-├── StaffManagement_1_0_0_1_managed.zip
+/StaffManagementSolution
+├── StaffManagementScreenshots
 │ 
 └── README.md
 │   
-└── StaffManagementScreenshots
+└── StaffManagement_1_0_0_1_managed.zip
 ```
 
 ## Features
