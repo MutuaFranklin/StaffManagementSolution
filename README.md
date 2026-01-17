@@ -66,10 +66,11 @@ Staff Management allows users to:
 - Check if the Cloud Flow `SM_InitializeJobsTableIfEmpty` exists
 
 
-### 4. Assign App Access
-
+### 4. Assign App Access and Authentication
+- Users sign in using their Microsoft 365 account.
 - Share the StaffManagement Canvas App with any users who need access
 - During the sharing process, ensure the users are also granted access to all underlying Dataverse tables via the StaffManagementDataAccess security group.
+- Microsoft 365 handles login, logout, and secure authentication.
 - This ensures users can fully interact with the app and its data according to their role.
 
 ### 5. Run the App
